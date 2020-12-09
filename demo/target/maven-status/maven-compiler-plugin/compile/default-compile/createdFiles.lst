@@ -1,0 +1,5 @@
+net\xdclass\forum\util\DataSourceUtil.class
+net\xdclass\forum\domain\Category.class
+net\xdclass\forum\domain\User.class
+test\Test.class
+net\xdclass\forum\domain\Reply.class
